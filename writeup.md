@@ -54,9 +54,13 @@ After seeing the tree drawn out in the .ipynb, hu and bb seem related (as well a
 The specimens I picked and their results from BLAST were:
 
 pi.3: "adeno-associated virus isolate pi.3 capsid protein VP1 (cap)gene"
+
 hu.66: "adeno-associated virus isolate hu.66 capsid protein VP1 (cap) gene"
+
 cy.6: "non-human primate adeno-associated virus isolate AAVcy.6 capsid protein (VP1) gene"
+
 rh.51 "adeno-associated virus isolate rh.51 capsid protein VP1 (cap) gene"
+
 rh.52 "adeno-associated virus isolate rh.52 capsid protein VP1 (cap) gene"
 
 The specimens I picked all seem to be somewhat related in that they all code for capsid proteins.
